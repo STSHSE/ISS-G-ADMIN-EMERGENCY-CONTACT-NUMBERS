@@ -2,8 +2,8 @@ BEGIN:VCARD
 VERSION:2.1
 N:Sandeep;Anjali
 FN:Anjali Sandeep
-ORG:ISS/ G-Admin
-TITLE:Emergency Coordinator - Emergency Team
+ORG:ST AV
+TITLE:First Aider - Emergency Team
 TEL;CELL;VOICE:+971 552338930
 X-MS-OL-DEFAULT-POSTAL-ADDRESS:0
 EMAIL;PREF;INTERNET:a.sandeep@site-technology.com
@@ -27,5 +27,5 @@ X-MS-CARDPICTURE;TYPE=JPEG;ENCODING=BASE64:
  CEmgSN60UUAf/9k=
 
 X-MS-OL-DESIGN;CHARSET=utf-8:<card xmlns="http://schemas.microsoft.com/office/outlook/12/electronicbusinesscards" ver="1.0" layout="left" bgcolor="ffffff"><img xmlns="" align="fit" area="16" use="cardpicture"/><fld xmlns="" prop="name" align="left" dir="ltr" style="b" color="000000" size="10"/><fld xmlns="" prop="blank" size="8"/><fld xmlns="" prop="telcell" align="left" dir="ltr" color="d48d2a" size="8"><label align="right" color="626262">Mobile</label></fld><fld xmlns="" prop="email" align="left" dir="ltr" color="d48d2a" size="8"/><fld xmlns="" prop="blank" size="8"/><fld xmlns="" prop="blank" size="8"/><fld xmlns="" prop="blank" size="8"/><fld xmlns="" prop="blank" size="8"/><fld xmlns="" prop="blank" size="8"/><fld xmlns="" prop="blank" size="8"/><fld xmlns="" prop="blank" size="8"/><fld xmlns="" prop="blank" size="8"/><fld xmlns="" prop="blank" size="8"/><fld xmlns="" prop="blank" size="8"/><fld xmlns="" prop="blank" size="8"/><fld xmlns="" prop="blank" size="8"/></card>
-REV:20251021T121226Z
+REV:20251020T072126Z
 END:VCARD
